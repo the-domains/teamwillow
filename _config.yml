@@ -1,0 +1,14 @@
+layout_spectrum: 0.7962987
+color:
+  saturation: 0
+  lightness: 1
+  brandStrength: 0.7655056
+  brandColors:
+    - '#413E3C'
+    - '#96B334'
+    - '#2A95B4'
+    - '#E15E2C'
+    - '#6D6B69'
+  rhythmicContrast: 0
+typography_spectrum: 0.2114695
+name: '#teamwillow'
