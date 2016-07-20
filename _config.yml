@@ -1,4 +1,5 @@
-layout_spectrum: 0.7962987
+layout_spectrum: 0.4928315
+typography_spectrum: 0.2114695
 color:
   saturation: 0
   lightness: 1
@@ -10,5 +11,4 @@ color:
     - '#E15E2C'
     - '#6D6B69'
   rhythmicContrast: 0
-typography_spectrum: 0.2114695
 name: '#teamwillow'
